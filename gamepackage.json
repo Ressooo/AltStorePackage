@@ -10,7 +10,7 @@
       "version": "7.0.3",
       "versionDate": "2020-04-27T01:00:00-00:00",
       "versionDescription": "• 使用的是官方版本的微信\n• 使用版本为 7.0.3 不支持夜晚模式",
-      "downloadURL": "https://github.com/Ressooo/AltStorePackage/releases/download/1.0/starchef.ipa"
+      "downloadURL": "https://github.com/Ressooo/AltStorePackage/releases/download/1.0/starchef.ipa",
       "localizedDescription":"Use as WeChat avatar version",
       "iconURL": "https://api.downipa.tk/imgs/wechat.png",
       "tintColor": "3CB371",
