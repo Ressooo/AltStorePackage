@@ -3,7 +3,7 @@
   "identifier": "com.wechat.crisp",
   "apps": [
     {
-      "name": "微信",
+      "name": "StarChef",
       "bundleIdentifier": "com.tencent.xinn1",
       "developerName": "Crisper",
       "subtitle": "社交聊天工具",
